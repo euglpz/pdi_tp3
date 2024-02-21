@@ -1,6 +1,8 @@
 # pdi_tp3
 TUIA - Procesamiento de Imágenes I - TP3
 
+Se procesaron varios vídeos en tiempo real de tiradas de dados y se pudo detectar el momento/frame en que el video se frenaba y allí, imprimir el número que salía en la cara del dado.
+
 ## Instrucciones para correr el proyecto:
 1) Descargar el proyecto desde <> Code -> Download ZIP
 2) Extraerlo en su PC (la carpeta se llamará *pdi_tp3-main*)
